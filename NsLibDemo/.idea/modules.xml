@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NSLibraryDemo.iml" filepath="$PROJECT_DIR$/NSLibraryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NsLibDemo.iml" filepath="$PROJECT_DIR$/NsLibDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylittlelibrary/mylittlelibrary.iml" filepath="$PROJECT_DIR$/mylittlelibrary/mylittlelibrary.iml" />
     </modules>
